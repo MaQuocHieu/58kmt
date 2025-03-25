@@ -39,6 +39,103 @@
 ## BÀI LÀM
 ### BƯỚC 1: Tạo database.
 
+![Screenshot 2025-03-25 182917](https://github.com/user-attachments/assets/c424f5ca-a979-4bb4-9703-27a2d55c06b2)
+
+## BƯỚC 2: Tạo bảng.
+
+![Screenshot 2025-03-25 142607](https://github.com/user-attachments/assets/efe9fa75-49d0-4619-a52b-f84d4117140c)
+
+
+## BƯỚC 3: Tạo bảng thành công.
+
+![image](https://github.com/user-attachments/assets/ca73acdf-e959-4377-9459-8067e7cb738f)
+
+# Đây là các bảng đã tạo được.
+## 1.Bảng bộ môn(gồm có : MaBM khóa chính, tenBM, makhoa)
+
+![image](https://github.com/user-attachments/assets/5817a294-45ed-457b-8416-f9025efaf42c)
+
+## 2.Bảng DKMH(gồm có : malopHP, maSV là 2 khóa chính, DiemTP, DiemThi, PhanTramThi)
+
+![image](https://github.com/user-attachments/assets/ffe5ade6-2e69-47fe-a3e1-1236d6581ee9)
+
+## 3.Bảng GiaoVien(gồm có : maGV là khóa chính, hoten, NgaySinh, MaBM)
+
+![image](https://github.com/user-attachments/assets/2629ba40-5b04-443d-9665-28b4653c4a4d)
+
+## 4.Bảng QLSV(gồm có : malop, maGV, HK dều là khóa chính)
+
+![image](https://github.com/user-attachments/assets/645029f3-f43f-4184-9ead-740c3358d13b)
+
+
+## 5.Bảng Khoa(gồm có : makhoa là khóa chính, tenKhoa)
+
+![image](https://github.com/user-attachments/assets/7f12c5e8-4fd8-425e-baaf-bb051a75c218)
+
+## 6.Bảng Lop(gồm có : maLop làm khóa chính, tenLop)
+
+![image](https://github.com/user-attachments/assets/e8d14951-6e34-4792-aa1d-e49481cc0648)
+
+## 7.Bảng lopHP(gồm có : maLopHP khóa chính, HK, maMon, maGV)
+
+![image](https://github.com/user-attachments/assets/d915990e-cd22-4da8-a166-f3b9a90b36d2)
+
+## 8.Bảng lopSV(gồm có : maLop khóa chính, maSV, ChucVu)
+
+![image](https://github.com/user-attachments/assets/3a68fe55-2e1e-4ac3-bb66-421d354d787d)
+
+## 9.Bảng MonHoc(gồm có : maMon khóa chính, TenMon, STC)
+
+![image](https://github.com/user-attachments/assets/e32ef69c-5c2a-4e57-b772-27f4b530109f)
+
+## 10.Bảng SinhVien(gồm có : maSV khóa chính, hoTen, NgaySinh)
+
+![image](https://github.com/user-attachments/assets/95ddda57-4624-48ab-9a23-5bebefd266ce)
+
+# Cách tạo khóa chính.
+
+![Screenshot 2025-03-25 192024](https://github.com/user-attachments/assets/7a4100f6-81d5-4b4c-99e4-01ccfde84a4f)
+
+# Cách tạo khóa ngoại. 
+
+![Screenshot 2025-03-25 192839](https://github.com/user-attachments/assets/11b81c2b-e0cb-4dba-92e7-1034c5ec912d)
+
+## Mô tả bảng check (bảng lop)
+
+![Screenshot 2025-03-25 194552](https://github.com/user-attachments/assets/dde9d055-5e6e-411e-a74e-2a7748394952)
+
+![Screenshot 2025-03-25 160759](https://github.com/user-attachments/assets/a24e6ec3-f88d-41ce-8fb3-288598505678)
+
+## Đây là kết quả tạo được và cách tạo
+
+![Screenshot 2025-03-25 195831](https://github.com/user-attachments/assets/63596bbe-c4fd-4562-9aa8-a86a76258ae0)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
